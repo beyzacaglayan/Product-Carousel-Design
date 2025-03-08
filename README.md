@@ -19,3 +19,5 @@ The project is developed using only JavaScript and jQuery, without any third-par
 All functionality is contained within a single JavaScript file, which can be executed directly in the Chrome Developer Tools console.
 
 ![Ekran görüntüsü 2025-03-05 133142](https://github.com/user-attachments/assets/883ab71e-b7bd-4a06-9baa-2b024ed87627)
+
+This is a project given to me by Insider.
